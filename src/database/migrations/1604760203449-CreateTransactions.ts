@@ -20,7 +20,7 @@ export class CreateTransactions1604760203449 implements MigrationInterface {
           },
           {
             name: 'value',
-            type: 'real',
+            type: 'real', // double precision
           },
           {
             name: 'type',
