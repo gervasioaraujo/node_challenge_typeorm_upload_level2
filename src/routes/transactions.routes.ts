@@ -37,7 +37,7 @@ transactionsRouter.delete('/:id', async (request, response) => {
   return response.json({ ok: "delete" }); // Que retornar???
 });
 
-transactionsRouter.post('/import', upload.single('csv_file'), async (request, response) => {
+transactionsRouter.post('/import', upload.single('file'), async (request, response) => {
 
   const { path } = request.file;
 
