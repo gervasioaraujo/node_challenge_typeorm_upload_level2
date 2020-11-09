@@ -13,4 +13,4 @@ O que foi aplicado:
 - Aplicação de princípios SOLID, como o SRP e DIP;
 - Service Pattern e Repository Pattern;
 - Upload de arquivos com Multer e Leitura de arquivos CSV;
-- Manipulção de erros;
+- Tratamento de exceções;
