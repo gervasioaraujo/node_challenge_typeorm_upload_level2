@@ -10,6 +10,7 @@ O que foi aplicado:
 - Banco de dados Postgres;
 - Mapeamento Objeto Relacional (ORM) com Typeorm;
 - Criação de contêineres com Docker;
-- Aplicação de alguns princípios SOLID, como o SRP;
+- Aplicação de princípios SOLID, como o SRP e DIP;
+- Service Pattern e Repository Pattern;
 - Upload de arquivos com Multer e Leitura de arquivos CSV;
 - Manipulção de erros;
